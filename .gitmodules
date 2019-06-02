@@ -1,0 +1,3 @@
+[submodule "themes/rusty"]
+	path = themes/rusty
+	url = https://github.com/cecyc/hugo-theme-rusty.git
