@@ -3,7 +3,7 @@ title: "My Experience with Fitbit App Development"
 date: 2019-06-02T17:14:22+01:00
 ---
 
-After purchasing my first Fitbit watch last year, I decided to take a crack at making a little app for it. I settled on the idea of the 'Countdown to Christmas' app, partially because of my odd obsession with that particular date, and partly because it seemed like a simple yet effective way of putting my own mark on the Fitbit App Gallery. While not as prevalent as the infamous Apple app store, it is also not as saturated, and therefore fresher ground for new developers such as myself.
+After purchasing my first Fitbit watch last year, I decided to take a crack at making a little app for it. I settled on the idea of the 'Countdown to Christmas' app, partially because of my odd obsession with that particular date,and partly because it seemed like a simple yet effective way of putting my own mark on the Fitbit App Gallery. While not as prevalent as the infamous Apple app store, it is also not as saturated, and therefore fresher ground for new developers such as myself.
 
 ![](./app..png)
 
