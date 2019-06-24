@@ -24,7 +24,7 @@ The simulator is a downloadable program that will show you what the app/screen w
 
 So, we have a satisfactory program with which to write our code. Here come the complaints, for it was not an especially smooth process completing the project and having it appear on the app store. 
 
-There is no streamlined way with which to move the project from the editor to the submission page; it was a download-reupload sort of thing. Not the end of the world but certainly a pain once there became multiple versions of the app. It became imperative keeping the different versions organised. And then we come to the submissions page. 
+There is no streamlined way with which to move the project from the editor to the submission page; in order to upload your app to the gallery submissions, you had to download a zipfile, and reupload it to a separate location. Not the end of the world but certainly a pain once there became multiple versions of the app. It became imperative keeping the different versions organised. And then we come to the submissions page. 
 
 ![](./dsada.png)
 
@@ -34,9 +34,8 @@ And with that we are finished. One bonified Christmas app!
 
 ![](./Screenshot_20190624-193012_Fitbit.jpg)
 
+In conclusion, this was a fairly streamlined process, that I don't have too many criticisms for. However i do have a couple of concerned. For one thing,  there is no a push method like through git, so there is no reloading to a previous state if you find you have irrevocably messed up your code. I found myself copying and pasting lines of code that I knew worked, so I wouldn't have to go through the effort of trying to remember how I had previously written it. I think most devs will have recognised the importance of this not too far into their coding journeys. 
 
-In conclusion, this was a fairly streamlined process, that I don't have too many criticisms for. However i do have a couple of concerned. For one thing, after you go to all that effort to write, submit, resubmit, submit again, talk to a robot, and eventually get the app onto the app store you do not find yourself with a separate page where people can rate and comment on your finished product. Granted I am new to the whole dev game, but I think the motivation for a lot of developers is to see both the download count, and the (hopefully positive) feedback from your thousands of adoring downloadees. 
-
-The second issue I have is that there is no a push method like through git, so there is no reloading to a previous state if you find you have irrevocably messed up your code. I found myself copying and pasting lines of code that I knew worked, so I wouldn't have to go through the effort of trying to remember how I had previously written it. I think most devs will have recognised the importance of this not too far into their coding journeys. 
+My second, and biggest, issue I have is that after you go to all that effort to write, submit, resubmit, submit again, talk to a robot, and eventually get the app onto the app store you do not find yourself with a separate page where people can rate and comment on your finished product. I think the motivation for a lot of developers is to see both the download count, and the (hopefully positive) feedback from your thousands of adoring downloadees. This is the downfall of the Fitbit developer experience; the only way I even knew that people were using my app was because I recieved numerous emails from Fitbit owners when the original iteration was not working. (I had failed to update the year, after Christmas 2018 had passed). Had everything worked perfectly, I would have had no feedback what so ever, and this isn't good motivation for flawless app creations.
 
 But overall, I enjoyed the experience of making this little app, and as my skills improve, I hope that my apps will, too.
